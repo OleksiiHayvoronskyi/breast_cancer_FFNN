@@ -1,5 +1,5 @@
 			
-			<center>Breast Cancer Wisconsin (benign or malignant) with Feed Forward Neural Network</center>
+			# **Breast Cancer Wisconsin (benign or malignant) with Feed Forward Neural Network**
 
 
 ## Overview
