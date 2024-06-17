@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ## Usage
 
 Clone this repository:
-git clone <repository-url>
+git clone https://github.com/OleksiiHayvoronskyi/breast_cancer_FFNN.git
 
 
 ## Contributors
