@@ -2,8 +2,7 @@
 # **Breast Cancer Wisconsin (benign or malignant) with Feed Forward Neural Network**
 
 ## Overview
-This repository contains code and documentation for diagnosing
-<br>breast cancer as benign or malignant using a Feed Forward Neural Network (FFNN).
+This repository contains code and documentation for diagnosing breast cancer as benign or malignant using a Feed Forward Neural Network (FFNN).
 
 ## Dataset
 The dataset has 1 CSV file named 'data.csv'.
@@ -29,13 +28,13 @@ The Breast Cancer dataset used for this analysis contains features extracted fro
 
 ## Prerequisites
 Ensure you have the following installed:
-
 - Python 3.x
 - Jupyter Notebook (optional)
 - IDE: PyCharm or Visual Studio
 
 ## Usage
 Clone this repository:
+```sh
 git clone https://github.com/OleksiiHayvoronskyi/breast_cancer_FFNN.git
 
 ## Install Dependencies
