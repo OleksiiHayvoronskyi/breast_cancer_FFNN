@@ -1,5 +1,5 @@
 
-# **Breast cancer diagnostic (benign or malignant) in Wisconsin with Feed Forward Neural Network: 97%**
+# **Breast cancer diagnostic (benign or malignant) in Wisconsin**
 
 ## Overview
 This repository contains code and documentation for diagnosing breast cancer as benign or malignant using a Feed Forward Neural Network (FFNN).
