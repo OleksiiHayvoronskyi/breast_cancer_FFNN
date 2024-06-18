@@ -36,6 +36,7 @@ Ensure you have the following installed:
 Clone this repository:
 ```sh
 git clone https://github.com/OleksiiHayvoronskyi/breast_cancer_FFNN.git
+```sh
 
 ## Install Dependencies
 ```sh
