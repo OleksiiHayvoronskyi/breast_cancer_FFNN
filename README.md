@@ -41,8 +41,7 @@ git clone https://github.com/OleksiiHayvoronskyi/breast_cancer_FFNN.git
 ## Install Dependencies
 ```sh
 pip install -r requirements.txt
-
-
+```
 
 ## Contributors
 ***Oleksii Haivoronskyi***
